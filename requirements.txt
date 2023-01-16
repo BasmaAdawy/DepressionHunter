@@ -11,6 +11,5 @@ imbalanced-learn
 eli5
 -----------------
 you need to install ---------->this for the api on spyder
-python3
 fastapi
 uvicorn
