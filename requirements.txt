@@ -1,0 +1,16 @@
+you need to install ---------->this for jupyter notebooks
+python3 
+sklearn
+pandas 
+matplotlib
+seaborn
+nltk
+re
+wordcloud
+imbalanced-learn
+eli5
+-----------------
+you need to install ---------->this for the api on spyder
+python3
+fastapi
+uvicorn
